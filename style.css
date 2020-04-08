@@ -1,0 +1,29 @@
+/* .car-img{
+    width: 200px;
+    height: 200px;
+} */
+
+
+html, body {
+    background-color: blue;
+}
+
+#login-page {
+    background-color: blue;
+}
+
+#cars-container {
+    background-color: pink;
+}
+
+#one-car-container {
+    background-color: green;
+}
+
+
+/* give class names to all the elements */
+/* Try to organize the list of cars in rows/columns */
+/* In the lists of cars, organize the 4 descriptions */
+/* at the bottom of clicked car, organize the comments, the descriptions of the car */
+/* stretch: add some vroom vrooom sounds when a car is clicked */
+/* stretch: login page has a moving background of cars */
